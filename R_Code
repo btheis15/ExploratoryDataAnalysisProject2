@@ -18,6 +18,8 @@ unzip(zipfile = "dataFiles.zip")
   # plotting
   barplot(totalEmissions, xlab = "Year", ylab = "Total Emission (ton)", 
           main = "Total Emission per year")
+  
+  #Plot https://github.com/btheis15/ExploratoryDataAnalysisProject2/blob/master/Question%201.png 
        
 #########################################################################       
        
@@ -31,6 +33,8 @@ unzip(zipfile = "dataFiles.zip")
   # plotting
   barplot(totalEmissions, xlab = "Year", ylab = "Total Emission (ton)", 
          main = "Total Emission per year in Baltimore")
+         
+  #Plot https://github.com/btheis15/ExploratoryDataAnalysisProject2/blob/master/Question%202.png 
          
 #########################################################################            
          
@@ -46,6 +50,8 @@ unzip(zipfile = "dataFiles.zip")
          xlab("Year") +
          ylab(expression("Total PM"[2.5]*" Emissions")) +
          ggtitle("Total Emissions per type in Baltimore")
+         
+  #Plot https://github.com/btheis15/ExploratoryDataAnalysisProject2/blob/master/Question%203.png
          
 #########################################################################            
          
@@ -64,6 +70,8 @@ unzip(zipfile = "dataFiles.zip")
   barplot(totalEmissions, xlab = "Year", ylab = "Total Emission (ton)", 
           main = "Total Emission from coal sources")
           
+  #Plot https://github.com/btheis15/ExploratoryDataAnalysisProject2/blob/master/Question%204.png
+          
 #########################################################################             
           
 #QUESTION 5
@@ -80,6 +88,8 @@ unzip(zipfile = "dataFiles.zip")
   # plotting
   barplot(totalEmissions, xlab = "Year", ylab = "Total Emission (ton)", 
           main = "Total Emission from motor sources in Baltimore")
+          
+  #Plot https://github.com/btheis15/ExploratoryDataAnalysisProject2/blob/master/Question%205.png
           
 #########################################################################             
           
@@ -106,3 +116,5 @@ unzip(zipfile = "dataFiles.zip")
           xlab("Year") +
          ylab(expression("Total PM"[2.5]*" Emissions")) +
          ggtitle("Total Emissions from motor sources in Baltimore and Los Angeles")
+         
+  #Plot https://github.com/btheis15/ExploratoryDataAnalysisProject2/blob/master/Question%206.png
