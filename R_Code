@@ -19,7 +19,7 @@ unzip(zipfile = "dataFiles.zip")
   barplot(totalEmissions, xlab = "Year", ylab = "Total Emission (ton)", 
           main = "Total Emission per year")
   
-  #Plot https://github.com/btheis15/ExploratoryDataAnalysisProject2/blob/master/Question%201.png 
+  #Plot (https://github.com/btheis15/ExploratoryDataAnalysisProject2/blob/master/Question%201.png) 
        
 #########################################################################       
        
